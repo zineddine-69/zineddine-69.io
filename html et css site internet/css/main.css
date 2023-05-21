@@ -1,0 +1,129 @@
+.logo
+{
+    width: 150px;
+    margin: 0;
+}
+.barrederecherche{
+    justify-content: center;
+    align-items:center;
+}
+  form {
+    width: 400px;
+    margin: 0;
+    margin-top: 0px;
+  }
+  input {
+    padding: 4px 10px;
+    border: 0;
+    font-size: 16px;
+  }
+  .search {
+    width: 75%;
+  }
+  .submit {
+    width: 70px;
+    background-color:rgb(255, 36, 36);
+    color: #ffffff;
+  }
+.imagelogo{
+    width: 25px;
+    height: 25px;
+}
+.descriptiontitre{
+    text-align: center;
+    color: rgb(0, 0, 0);
+}
+.texteboxe{
+    color: rgb(255, 255, 255);
+}
+.texteboxe1{
+    color: rgb(255, 255, 255);
+}
+.menubox{
+    background-color: rgb(255, 36, 36);
+    display: flex;
+    justify-content: space-around;
+}
+.image{
+    width: 100%;
+    height: 50%;
+}
+.boximage2{
+    width: 700px;
+    height: 450px;
+}
+.presentationboxe{
+    align-items: baseline;
+    display:flex;
+    justify-content: flex-start;
+}
+.remercimentect{
+    text-align: center;
+}
+
+.sousremerciment{
+    text-align: center;
+    color: rgb(255, 36, 36)
+}
+h1 span{
+    font-size: 127px;
+    font-family: 'Caveat';
+}
+h1 span span{
+    color: white;
+}
+.container {
+    width: 100%;
+    height: 50%;
+    display: inline-block;
+    position: relative;
+    
+    }
+    
+.container .text {
+    z-index: 1;
+    position: absolute;
+    text-align: center;
+    font-family: Georgia;
+    margin: 0 auto;
+    left: 0;
+    right: 0;
+    top: 30%;
+    color: rgb(255, 36, 36);
+    width: 70%;
+    }
+.image3{
+    width: 100%;
+    height: 50%;
+    display: inline-block;
+    position: relative;
+}
+h3 span{
+    font-size: 50px;
+    text-align: center;
+}
+.combat{
+    text-align: center;
+    color: rgb(255, 36, 36);
+}
+.présentationboxe2{
+    align-items: baseline;
+    display:flex;
+    justify-content: flex-start;
+}
+.image4{
+    width: 700px;
+    height: 450px;
+}
+.menubox3{
+    background-color: rgb(255, 36, 36);
+    display: flex;
+    justify-content: space-around;
+}
+.menubox4{
+    color: white;
+}
+.titrebox{
+    display: flex;
+    justify-content: center;
+}
